@@ -1,0 +1,24 @@
+calcgrid command line tool — License
+
+Copyright (c) 2026 Felix Sun. All rights reserved.
+
+You may install and use this software, free of charge, for any purpose,
+personal or commercial, on any number of computers.
+
+You may not:
+
+  - redistribute the software, or make it available for others to download,
+    other than by pointing them to https://github.com/sunfmin/calcgrid-cli
+    or to the Homebrew formula sunfmin/tap/calcgrid;
+  - modify, decompile, disassemble or reverse engineer the software, except
+    where the law gives you that right regardless of this license;
+  - remove or alter this notice.
+
+The files you create or change with the software are yours.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
